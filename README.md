@@ -33,7 +33,7 @@ $ npm run deploy
 
 If you are working on a fork and deploying to a different URL, you need to update the following accordingly:
 
-* `url` and `deploy` sections in `_config.yml`
+* `url`, `root` and `deploy` sections in `_config.yml`
 * `src/CNAME`
 
 ## On Translations
